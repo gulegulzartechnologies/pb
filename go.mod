@@ -1,4 +1,4 @@
-module github.com/projectdrali/pb-template
+module github.com/gulegulzartechnologies/pb
 
 go 1.23.2
 
